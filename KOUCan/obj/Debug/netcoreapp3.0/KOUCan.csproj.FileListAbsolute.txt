@@ -1,0 +1,11 @@
+C:\Users\aagun\source\repos\KOUCan\KOUCan\bin\Debug\netcoreapp3.0\KOUCan.exe
+C:\Users\aagun\source\repos\KOUCan\KOUCan\bin\Debug\netcoreapp3.0\KOUCan.deps.json
+C:\Users\aagun\source\repos\KOUCan\KOUCan\bin\Debug\netcoreapp3.0\KOUCan.runtimeconfig.json
+C:\Users\aagun\source\repos\KOUCan\KOUCan\bin\Debug\netcoreapp3.0\KOUCan.runtimeconfig.dev.json
+C:\Users\aagun\source\repos\KOUCan\KOUCan\bin\Debug\netcoreapp3.0\KOUCan.dll
+C:\Users\aagun\source\repos\KOUCan\KOUCan\bin\Debug\netcoreapp3.0\KOUCan.pdb
+C:\Users\aagun\source\repos\KOUCan\KOUCan\obj\Debug\netcoreapp3.0\KOUCan.csprojAssemblyReference.cache
+C:\Users\aagun\source\repos\KOUCan\KOUCan\obj\Debug\netcoreapp3.0\KOUCan.AssemblyInfoInputs.cache
+C:\Users\aagun\source\repos\KOUCan\KOUCan\obj\Debug\netcoreapp3.0\KOUCan.AssemblyInfo.cs
+C:\Users\aagun\source\repos\KOUCan\KOUCan\obj\Debug\netcoreapp3.0\KOUCan.dll
+C:\Users\aagun\source\repos\KOUCan\KOUCan\obj\Debug\netcoreapp3.0\KOUCan.pdb
